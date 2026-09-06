@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "This manuscript is unpublished. Contact the corresponding author before citing or reusing it."
+title: "Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders: A Scoping Review"
+type: article
+version: "pre-submission-2026-09-06"
+date-released: 2026-09-06
+authors:
+  - family-names: Salman
+    given-names: Zane
+    affiliation: The University of Texas at Austin
+  - family-names: Zeitouny
+    given-names: Ryan
+    affiliation: Texas A&M University
+  - family-names: Refaei
+    given-names: Daliah
+    affiliation: Capital Schools of Austin
+  - family-names: Salman
+    given-names: Samer
+    affiliation: Baylor College of Medicine
+  - family-names: Phadke
+    given-names: Rohan
+    affiliation: Baylor College of Medicine
+  - family-names: Tripuraneni
+    given-names: Isha
+    affiliation: McGovern Medical School at UTHealth Houston
+  - family-names: Shatby
+    given-names: Anthony
+    affiliation: Texas A&M School of Engineering Medicine
+  - family-names: Javvadi
+    given-names: Akhil
+    affiliation: HelloAlfred.Ai
+  - family-names: Gerges
+    given-names: Carol
+    affiliation: A.T. Still University School of Osteopathic Medicine
+  - family-names: Abdallah
+    given-names: Yara
+    affiliation: Northeastern University
+  - family-names: Tripuraneni
+    given-names: Ajay
+    affiliation: Baylor College of Medicine
+contact:
+  - family-names: Salman
+    given-names: Zane
+    email: zgs277@eid.utexas.edu
+repository-code: "https://github.com/ZaneSalman/GI-Dysphagia-AI-Scoping-Review"
