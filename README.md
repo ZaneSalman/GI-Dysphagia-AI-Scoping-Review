@@ -1,6 +1,8 @@
 # Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders
 
-This private repository contains the editorially revised submission materials for a JBI-guided scoping review reported according to PRISMA-ScR.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22558080.svg)](https://doi.org/10.5281/zenodo.22558080)
+
+This public repository contains the editorially revised submission materials for a JBI-guided scoping review reported according to PRISMA-ScR.
 
 ## Review status
 
@@ -41,4 +43,10 @@ Zane Salman, Ryan Zeitouny, and Daliah Refaei contributed equally and share firs
 
 ## Access and reuse
 
-This repository is private and contains an unpublished manuscript. No reuse license is granted at this stage. Copyrighted full-text articles are intentionally excluded.
+This repository contains an unpublished manuscript. No reuse license is granted at this stage. Copyrighted full-text articles are intentionally excluded.
+
+## Citation
+
+Salman, Z., Zeitouny, R., Refaei, D., Salman, S., Phadke, R., Tripuraneni, I., Shatby, A., Javvadi, A., Gerges, C., Abdallah, Y., & Tripuraneni, A. (2026). *Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders: A Scoping Review* (Version v0.1.0-pre-submission) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22558080
+
+This DOI identifies the archived pre-submission research artifact, not a peer-reviewed journal publication.

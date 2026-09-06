@@ -1,9 +1,11 @@
 cff-version: 1.2.0
 message: "This manuscript is unpublished. Contact the corresponding author before citing or reusing it."
 title: "Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders: A Scoping Review"
-type: article
-version: "pre-submission-2026-09-06"
-date-released: 2026-09-06
+type: software
+version: "v0.1.0-pre-submission"
+date-released: 2026-09-07
+doi: "10.5281/zenodo.22558080"
+url: "https://doi.org/10.5281/zenodo.22558080"
 authors:
   - family-names: Salman
     given-names: Zane
