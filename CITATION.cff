@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite this repository using the metadata below. The manuscript has not yet completed journal peer review."
 title: "Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders: A Scoping Review"
 type: software
-version: "v0.1.1"
+version: "v0.2.0"
 date-released: 2026-09-07
 doi: "10.5281/zenodo.22558079"
 url: "https://doi.org/10.5281/zenodo.22558079"

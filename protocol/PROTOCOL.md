@@ -1,35 +1,31 @@
-# Protocol for Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders
+# Prospective Protocol for the Next Update of Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders
 
-## Registration status
+## Protocol status
 
-Protocol version: 1.0  
-Repository registration date: 6 September 2026  
-Registration type: Retrospective protocol deposited after completion of screening  
-Permanent version: https://github.com/ZaneSalman/GI-Dysphagia-AI-Scoping-Review/releases/tag/protocol-v1.0-retrospective
+Protocol version: 2.0  
+Protocol date: 6 September 2026  
+Status: Prospective protocol for the next update or replication  
+Scope of operation: This protocol will govern only review activities begun after its public deposit. It does not alter the chronology or registration status of the completed review.
 
-This protocol documents the methods actually used for the completed scoping review. It was not prospectively registered and must not be described as a prospective protocol. The dated amendment in this document and the preserved screening files constitute the methodological audit trail.
+The protocol converts the finalized, field-tested methods of the completed scoping review into an a priori plan for a future update or replication. Before the update begins, the team will publicly deposit a frozen copy and record its permanent URL, timestamp, and commit identifier here. No update search, screening, eligibility assessment, or data charting will begin before that deposit.
 
 ## Review title
 
-Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders: A Scoping Review
+Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders: A Scoping Review Update
 
-## Review team
+## Review team and roles
 
-Zane Salman, Ryan Zeitouny, Daliah Refaei, Samer Salman, Rohan Phadke, Isha Tripuraneni, Anthony Shatby, Akhil Javvadi, Carol Gerges, Yara Abdallah, and Ajay Tripuraneni.
-
-Daliah Refaei and Zane Salman performed independent screening. Daliah Refaei charted the included reports, and Zane Salman verified the charted fields. Disagreements were resolved by consensus. Zane Salman is the corresponding author. Zane Salman, Ryan Zeitouny, and Daliah Refaei share first authorship. Ajay Tripuraneni is the senior author.
+The review team will comprise Zane Salman, Ryan Zeitouny, Daliah Refaei, Samer Salman, Rohan Phadke, Isha Tripuraneni, Anthony Shatby, Akhil Javvadi, Carol Gerges, Yara Abdallah, and Ajay Tripuraneni. Daliah Refaei and Zane Salman will independently screen records and reports. Daliah Refaei will chart included reports, and Zane Salman will verify all charted fields. Disagreements will be resolved by consensus; an additional reviewer will adjudicate unresolved disagreements. Final roles will be reported according to CRediT.
 
 ## Background and rationale
 
-Artificial intelligence and related computational methods are increasingly applied to esophageal disorders using manometry, endoscopy, imaging, clinical records, and other data. The literature spans heterogeneous populations, clinical purposes, model families, and validation designs. A scoping review was selected to map the extent and characteristics of this evidence, identify implementation and reporting gaps, and determine priorities for future research.
+Artificial intelligence and related computational methods are increasingly applied to esophageal disorders using manometry, endoscopy, imaging, clinical records, molecular markers, histopathology, and physiologic sensors. The literature spans heterogeneous populations, clinical purposes, model families, and validation designs. An updated scoping review will map the extent and characteristics of this evidence, identify implementation and reporting gaps, and determine priorities for future research.
 
 ## Objective
 
-The review aimed to characterize artificial intelligence and comparable computational applications in esophageal dysphagia, esophageal dysfunction, and related eligible esophageal disorders.
+The update will characterize artificial intelligence and comparable computational applications in esophageal dysphagia, esophageal dysfunction, and related eligible esophageal disorders.
 
 ## Review questions
-
-The review asked:
 
 1. Which esophageal conditions and populations have been studied?
 2. Which clinical data modalities and artificial intelligence or computational methods have been used?
@@ -39,82 +35,73 @@ The review asked:
 
 ## Eligibility criteria
 
-Eligibility was defined using the Population Concept Context framework.
+Eligibility will be defined using the Population Concept Context framework.
 
 | PCC element | Included scope | Excluded scope |
 |---|---|---|
 | Population | Esophageal dysphagia or dysfunction and related eligible esophageal disorders or clinical samples | No relevant esophageal or swallowing population, condition, or sample |
 | Concept | Artificial intelligence, machine learning, neural networks, natural-language processing, computer vision, segmentation, comparable computational modeling, or decision support | No eligible artificial intelligence or computational application |
 | Context | Clinical detection, diagnosis, classification, interpretation, segmentation, phenotyping, quantitative assessment, physiologic assessment, or decision support | Context unrelated to the review objective |
-| Evidence type | Full articles and assessable conference abstracts | Editorials or commentaries without original data and otherwise ineligible evidence types |
+| Evidence type | Full articles and assessable conference abstracts reporting original results | Editorials or commentaries without original data, protocols or registry records without results, and otherwise ineligible evidence types |
 
-Age was described during data charting but was not an eligibility criterion under the final frozen age-neutral criteria. An unavailable report was classified as not retrieved rather than excluded.
+Age will be charted but will not be an eligibility criterion. Mixed-age and age-unspecified reports will not be excluded solely because adult results are not separable. An unavailable report will be classified as not retrieved rather than excluded.
 
 ## Information sources
 
-The following six sources were searched on 6 August 2026 by Zane Salman:
-
-- PubMed MEDLINE through PubMed
-- Embase through Embase.com
-- Scopus through Elsevier
-- Web of Science Core Collection through Clarivate
-- IEEE Xplore
-- ClinicalTrials.gov
-
-The constituent indexes selected within Web of Science Core Collection were not recorded. No additional website, citation-searching, or author-search source was documented in the finalized audit. No documented formal peer review of the search strategies or information-specialist contribution occurred.
+The update will search PubMed MEDLINE through PubMed, Embase through Embase.com, Scopus through Elsevier, Web of Science Core Collection through Clarivate, IEEE Xplore, and ClinicalTrials.gov. Before executing the searches, the team will record the exact Web of Science constituent indexes. The team will document any additional website, citation-searching, or author-search sources. An information specialist or second qualified reviewer will peer review the strategies before execution, and the review will be documented.
 
 ## Search strategy
 
-Controlled vocabulary, where available, and free-text terms were combined for esophageal dysphagia or dysfunction and artificial intelligence or comparable computational methods. Complete source-specific strategies, platforms, dates, limits, and recorded yields are preserved in `supplement/Clean_Supplementary_Materials.docx`.
+Controlled vocabulary, where available, and free-text terms will combine concepts for esophageal dysphagia or dysfunction with artificial intelligence or comparable computational methods. The 6 August 2026 strategies in the supplementary materials will serve as the tested starting point. They will be updated for vocabulary, syntax, database changes, and the new search end date without narrowing the age-neutral scope. Complete source-specific strategies, platforms, coverage dates, execution dates, limits, searchers, peer-review status, and yields will be preserved verbatim. Searches will cover database inception through the execution date unless a justified update-only date limit is documented before searching.
 
 ## Record management and deduplication
 
-The searches identified 2,664 records. Reviewers manually removed or consolidated 1,003 duplicates using DOI, PMID, trial numbers, and normalized titles. No automatic duplicate-removal process was recorded. The resulting title-and-abstract screening universe contained 1,661 unique records. Stable record identifiers were maintained through screening, retrieval, consensus, report linkage, and extraction. The reference-management and screening software was not recorded in the finalized audit package.
+All exports will be preserved unchanged. The team will record the reference-management and screening software and versions. Records will receive stable identifiers. Deduplication will use DOI, PMID, trial number, normalized title, and bibliographic fields, with manual review of uncertain matches. A record-level duplicate log will identify retained and removed records and the basis for each decision.
 
 ## Selection of sources of evidence
 
-Daliah Refaei and Zane Salman independently screened the same 1,661 title-and-abstract records. The reviewers resolved differences through consensus and ratified 180 reports for retrieval. Both reviewers independently assessed retrieved reports against the frozen PCC criteria. One primary reason was recorded for each full-text exclusion. Original independent decisions were preserved, and consensus did not overwrite the locked reviewer files. No separate adjudicator was required after consensus.
+Two reviewers will independently screen the same title-and-abstract records against the frozen criteria. The reviewers will resolve differences by consensus and will preserve their original independent decisions. Both reviewers will independently assess retrieved reports at full text. One primary exclusion reason will be recorded for every excluded report. An additional reviewer will adjudicate disagreements not resolved by consensus. Piloting will continue until both reviewers agree that the criteria are operationally clear; the pilot size and any resulting clarification will be documented.
 
 ## Retrieval and report identification
 
-Reports were sought in the preserved project files and through DOI, publisher, PubMed or indexing, metadata, preview, and companion-report sources. Identity was verified through title, authors, DOI or other identifier, and publication details. Assessable conference abstracts were evaluated using available abstract evidence. Nine reports remained inaccessible because they were locked or otherwise unavailable after reasonable attempts and were classified as not retrieved.
+Reports will be sought through preserved project files, DOI and publisher pages, PubMed or other indexes, institutional access, lawful document delivery, metadata and preview services, and companion-report sources. Identity will be verified using title, authors, DOI or other identifier, and publication details. Assessable conference abstracts will be evaluated using available abstract evidence. Reports remaining inaccessible after documented reasonable attempts will be classified as not retrieved.
 
 ## Study and companion-report linkage
 
-Each report received a Report ID, and each underlying investigation received a Study ID. Linkage considered authorship, institution, recruitment dates, sample size, dataset or cohort name, registration or ethics identifiers, diagnostic method, model description, and explicit cross-reference. Reports were grouped only when evidence supported a shared investigation. Companion contributions were retained while study-level summaries avoided participant double counting.
+Each report will receive a Report ID and each underlying investigation a Study ID. Linkage will consider authorship, institution, recruitment dates, sample size, dataset or cohort name, registration or ethics identifiers, diagnostic method, model description, and explicit cross-reference. Reports will be grouped only when evidence supports a shared investigation. Companion contributions will be retained while study-level summaries avoid participant double counting.
 
 ## Data charting
 
-A JBI-informed charting form captured identification, study characteristics, population, clinical condition, modality, computational method, validation, outcomes, implementation, limitations, funding, conflicts of interest, and extraction administration. The form was piloted on eight purposively varied reports, revised, and frozen as version 1.0 on 5 September 2026. Daliah Refaei extracted the included reports, and Zane Salman verified fields against available reports or bibliographic records. Source evidence was used to resolve differences, and original extraction values were preserved in the audit trail.
+A JBI-informed charting form will capture identification, study characteristics, population, clinical condition, modality, computational method, validation, outcomes, implementation, limitations, funding, conflicts of interest, and extraction administration. The completed review's version 1.0 form will serve as the starting instrument. Before full charting, it will be piloted on at least eight purposively varied reports, revised if necessary, versioned, and frozen. One reviewer will chart each included report and a second reviewer will verify every field against the report or bibliographic record. Source evidence will resolve differences, and original and corrected values will remain in the audit trail.
 
-Missing-data conventions were: NR for not reported, NA for not applicable, Unclear for information present but uninterpretable, and Not assessed for a field outside scope.
+Missing-data conventions will be NR for not reported, NA for not applicable, Unclear for information present but uninterpretable, and Not assessed for a field outside scope.
 
 ## Data items
 
-Charted domains included citation and setting, design, population and condition, age and sex descriptors, sample size and unit of analysis, data modality and provenance, training and validation datasets, model purpose and family, architecture and preprocessing, comparators and reference standards, performance metrics and uncertainty, clinician comparison, intended use and deployment, generalizability, transparency, limitations, funding, conflicts of interest, and source location.
+Charted domains will include citation and setting, design, population and condition, age and sex descriptors, sample size and unit of analysis, data modality and provenance, training and validation datasets, model purpose and family, architecture and preprocessing, comparators and reference standards, performance metrics and uncertainty, clinician comparison, intended use and deployment, generalizability, transparency, limitations, funding, conflicts of interest, and source location.
 
 ## Synthesis
 
-Evidence was summarized descriptively at report and study levels. Categorical fields were counted at report level; multi-response modality and model-family totals could exceed the number of included reports. Performance values were retained with their reported units, denominators, dataset role, and validation context. Estimates were not pooled and models were not ranked across heterogeneous populations, thresholds, datasets, and validation designs. No meta-analysis was performed.
+Evidence will be summarized descriptively at report and study levels. Categorical fields will be counted at report level; multi-response modality and model-family totals may exceed the number of included reports. Performance values will retain their reported units, denominators, dataset role, and validation context. Estimates will not be pooled and models will not be ranked across heterogeneous populations, thresholds, datasets, and validation designs. No meta-analysis is planned.
 
 ## Critical appraisal
 
-No formal critical appraisal was planned or performed because the objective was to map the extent, characteristics, and gaps of the evidence rather than estimate a pooled effect or exclude sources by methodological quality.
+No formal critical appraisal is planned because the objective is to map the extent, characteristics, and gaps of the evidence rather than estimate a pooled effect or exclude sources by methodological quality. This decision will be reconsidered only through a dated, justified amendment made before appraisal or synthesis begins.
 
 ## Amendments and deviations
 
-On 21 August 2026, age was removed as an eligibility criterion from the earlier adult-focused framework before final consensus decisions were frozen. The amendment aligned eligibility with the GI and esophageal review question and prevented relevant mixed-age or age-unspecified evidence from being excluded solely because adult results were not separable. Final screening used the frozen age-neutral PCC criteria. Title-and-abstract consensus was reconstructed from the frozen full-text universe and ratified by both reviewers. The review team confirmed that no other protocol deviations occurred.
-
-Because this protocol was deposited retrospectively, the amendment is reported as part of the historical audit trail and not as a prospective protocol amendment.
+The age-neutral PCC criteria above are the baseline criteria for the update. Any change after public deposit will be recorded promptly in `protocol/AMENDMENT_LOG.md` with the date proposed, date approved, review stage, rationale, anticipated effect, affected records, and corrective action. The original protocol version and independent reviewer files will remain unchanged. Deviations will be distinguished from amendments and reported in the manuscript.
 
 ## Reporting and dissemination
 
-The review follows JBI methodological guidance and is reported according to PRISMA-ScR. Results will be submitted for journal publication. The manuscript, supplementary materials, PRISMA-ScR checklist, flow diagram, and public protocol are preserved in this repository. Copyrighted source reports are not redistributed.
+The update will be conducted using JBI methodological guidance and reported according to PRISMA-ScR. Results will be submitted for journal publication. The manuscript, supplementary materials, PRISMA-ScR checklist, flow diagram, frozen protocol, amendment log, and public data suitable for release will be preserved in the repository. Copyrighted source reports and private working materials will not be redistributed.
 
 ## Funding and conflicts of interest
 
-No external funding supported the review, and no external funder had a role in its design, conduct, analysis, interpretation, or reporting. The authors report no conflicts of interest.
+No external funding is currently planned. Funding, funder roles, and reviewer conflicts will be declared before work begins and updated if circumstances change.
 
-## Audit-trail statement
+## Audit trail and protocol activation
 
-The locked reviewer workbooks, consensus files, search exports, legally retained full-text files, and final master workbook are preserved in the project audit trail. Materials containing copyrighted articles or private working information are not included in the public repository.
+Locked reviewer workbooks, consensus files, search exports, retrieval records, legally retained full-text files, and the final master workbook will be preserved in the private audit trail. Materials containing copyrighted articles, credentials, personal information, or private working information will not be included publicly.
+
+This protocol will become operative only when a frozen version is publicly deposited before the first update search or other update-specific review activity. The repository custodian will then add the permanent URL, timestamp, tag, and commit identifier to this section without changing the substantive methods.

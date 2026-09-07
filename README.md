@@ -22,13 +22,13 @@ Verified review totals:
 ## Repository structure
 
 - `manuscript/` — edited manuscript
-- `protocol/` — retrospectively registered protocol and amendment log
+- `protocol/` — prospective protocol for the next update or replication, plus the amendment log
 - `supplement/` — clean supplementary materials, including complete search strategies
 - `reporting/` — PRISMA-ScR checklist and flow diagram
 
 ## Methodological framework
 
-The review uses age-neutral Population–Concept–Context eligibility criteria. The age-criterion amendment was dated 21 August 2026 and retained in the audit trail. Six documented sources were searched on 6 August 2026: PubMed/MEDLINE, Embase, Scopus, Web of Science Core Collection, IEEE Xplore, and ClinicalTrials.gov.
+The completed review used age-neutral Population–Concept–Context eligibility criteria. A forward-looking protocol now specifies the same tested core methods for a future update or replication; it becomes operative only if frozen publicly before new review work begins. The age-criterion amendment was dated 21 August 2026 and retained in the audit trail. Six documented sources were searched on 6 August 2026: PubMed/MEDLINE, Embase, Scopus, Web of Science Core Collection, IEEE Xplore, and ClinicalTrials.gov.
 
 ## Important limitations
 
@@ -47,6 +47,6 @@ This repository contains an unpublished manuscript and supporting research mater
 
 ## Citation
 
-Salman, Z., Zeitouny, R., Refaei, D., Salman, S., Phadke, R., Tripuraneni, I., Shatby, A., Javvadi, A., Gerges, C., Abdallah, Y., & Tripuraneni, A. (2026). *Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders: A Scoping Review* (Version v0.1.1) [Research materials]. Zenodo. https://doi.org/10.5281/zenodo.22558079
+Salman, Z., Zeitouny, R., Refaei, D., Salman, S., Phadke, R., Tripuraneni, I., Shatby, A., Javvadi, A., Gerges, C., Abdallah, Y., & Tripuraneni, A. (2026). *Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders: A Scoping Review* (Version v0.2.0) [Research materials]. Zenodo. https://doi.org/10.5281/zenodo.22558079
 
 The concept DOI above resolves to the latest version of this repository. Individual archived versions have their own version-specific DOI. This repository is not a peer-reviewed journal publication.
