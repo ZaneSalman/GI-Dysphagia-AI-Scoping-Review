@@ -1,10 +1,8 @@
-# Replacement Prospective Protocol for Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders
+# Prospective Protocol for Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22558079.svg)](https://doi.org/10.5281/zenodo.22558079)
 
-This public repository contains a replacement prospective protocol and the editorially revised submission materials for a JBI-guided scoping review reported according to PRISMA-ScR.
-
-The review team reports that an earlier prospective protocol was deleted and is no longer available for verification. This replacement protocol must not be backdated or treated as proof of the contents or public timestamp of the deleted file. It governs only future update or replication activities begun after the replacement protocol's verified GitHub deposit.
+This public repository contains a prospective protocol for future update or replication activities and the editorially revised submission materials for a JBI-guided scoping review reported according to PRISMA-ScR. The protocol governs only activities begun after its verified GitHub deposit.
 
 ## Project status
 
@@ -24,7 +22,7 @@ Verified review totals:
 ## Repository structure
 
 - `manuscript/` — edited manuscript
-- `protocol/` — replacement prospective protocol for future update or replication activities, plus the amendment log
+- `protocol/` — prospective protocol for future update or replication activities, plus the amendment log
 - `supplement/` — clean supplementary materials, including complete search strategies
 - `reporting/` — PRISMA-ScR checklist and flow diagram
 

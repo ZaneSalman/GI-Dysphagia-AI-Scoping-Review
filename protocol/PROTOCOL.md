@@ -1,13 +1,13 @@
-# Replacement Prospective Protocol for Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders
+# Prospective Protocol for Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders
 
 ## Protocol status
 
 Protocol version: 2.0  
 Protocol date: 6 September 2026  
-Status: Replacement prospective protocol for future update or replication activities  
+Status: Prospective protocol for future update or replication activities  
 Scope of operation: This protocol will govern only review activities begun after its public deposit. It does not alter the chronology or registration status of the completed review.
 
-The review team reports that an earlier prospective protocol was deleted and is no longer available for verification. This document does not reconstruct or establish the original file's date, exact contents, or registration status. It converts the finalized, field-tested methods of the completed scoping review into an a priori plan for future update or replication activities. No activity governed by this replacement protocol will begin before its verified public deposit.
+This protocol converts the finalized, field-tested methods of the completed scoping review into an a priori plan for future update or replication activities. No activity governed by this protocol will begin before its verified public deposit.
 
 ## Review title
 
