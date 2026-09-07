@@ -22,6 +22,7 @@ Verified review totals:
 ## Repository structure
 
 - `manuscript/` — edited manuscript
+- `protocol/` — retrospectively registered protocol and amendment log
 - `supplement/` — clean supplementary materials, including complete search strategies
 - `reporting/` — PRISMA-ScR checklist and flow diagram
 
