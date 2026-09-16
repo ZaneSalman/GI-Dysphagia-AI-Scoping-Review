@@ -9,9 +9,9 @@ This public repository contains the editorially revised submission materials for
 The operative prospective protocol is located in [`prospective-replication-protocol/`](prospective-replication-protocol/README.md). It prespecifies a fresh search from database inception, independent screening and charting, report-to-study linkage, validation mapping, PRISMA accounting, and amendment control.
 
 Protocol version: **1.0.1**  
-Status: **Publicly deposited; not yet activated for review work**  
+Status: **Prospectively activated by public release on 16 September 2026**  
 
-The protocol becomes active only when the release details are entered in its activation record and before the first replication-specific search, export, deduplication, screening, retrieval, eligibility assessment, charting, or synthesis activity.
+The immutable operative version is tagged [`replication-protocol-v1.0.1`](https://github.com/ZaneSalman/GI-Dysphagia-AI-Scoping-Review/releases/tag/replication-protocol-v1.0.1). Its release details are recorded in the activation record. Replication-specific work must follow that version or a transparently logged amendment.
 
 ## Project status
 
