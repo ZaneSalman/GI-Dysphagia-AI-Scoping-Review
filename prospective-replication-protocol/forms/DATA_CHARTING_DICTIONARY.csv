@@ -1,0 +1,29 @@
+Field_ID,Field_name,Level,Definition,Allowed_values_or_format,Source_location_required,Verification_rule
+DC001,Record_ID,Record,Stable identifier assigned before screening,Text,No,Must match screening universe
+DC002,Report_ID,Report,Stable identifier for each assessed report,Text,No,Must be unique
+DC003,Study_ID,Study,Identifier for linked underlying investigation,Text,Yes,Verify against linkage file
+DC004,Citation,Report,Complete bibliographic citation,Text,Yes,Verify identifier and title
+DC005,Condition,Report,Clinical condition using the frozen taxonomy,Controlled multiselect,Yes,Second reviewer verifies
+DC006,Population,Report,Population and clinical setting as reported,Text or NR,Yes,Second reviewer verifies
+DC007,Age_descriptor,Report,Age information exactly as reported,Text or NR,Yes,Second reviewer verifies
+DC008,Sex_descriptor,Report,Sex or gender information as reported,Text or NR,Yes,Second reviewer verifies
+DC009,Sample_size,Report,Reported sample size with its unit,Text or NR,Yes,Do not combine unlike units
+DC010,Unit_of_analysis,Report,Unit used for model development or evaluation,Patient; report; image; swallow; episode; sample; other; NR,Yes,Second reviewer verifies
+DC011,Data_modality,Report,Input data modality,Controlled multiselect,Yes,Second reviewer verifies
+DC012,Model_family,Report,Computational model family,Controlled multiselect,Yes,Second reviewer verifies
+DC013,Intended_application,Report,Clinical or analytic purpose,Detection; diagnosis; classification; segmentation; quantitative assessment; physiologic modeling; decision support; other,Yes,Second reviewer verifies
+DC014,Dataset_provenance,Dataset,Origin and collection context of each dataset,Text or NR,Yes,Second reviewer verifies
+DC015,Validation_type,Dataset,Internal external temporal or other validation,Internal; external; temporal; other; none identified; NR,Yes,Apply protocol definitions
+DC016,Performance_metric,Dataset,Metric value threshold denominator and dataset role,Structured text or NR,Yes,Do not rank incomparable results
+DC017,Calibration,Report,Calibration method and result,Text or NR,Yes,Second reviewer verifies
+DC018,Uncertainty,Report,Confidence interval or other uncertainty measure,Text or NR,Yes,Second reviewer verifies
+DC019,Clinician_comparison,Report,Comparator and result when clinicians are assessed,Text or NR,Yes,Second reviewer verifies
+DC020,Implementation_stage,Report,Maturity of clinical implementation,Research evaluation; silent evaluation; pilot implementation; deployed clinical use; NR,Yes,Second reviewer verifies
+DC021,Transparency,Report,Code model data protocol or reporting availability,Text or NR,Yes,Second reviewer verifies
+DC022,Limitations,Report,Author-reported and reviewer-mapped limitations,Text or NR,Yes,Distinguish reported from reviewer interpretation
+DC023,Funding,Report,Funding source and funder role as reported,Text or NR,Yes,Second reviewer verifies
+DC024,Conflicts,Report,Author conflicts as reported,Text or NR,Yes,Second reviewer verifies
+DC025,Extractor,Administration,Person who entered the value,Reviewer identifier,No,Must be authorized
+DC026,Verifier,Administration,Person who verified the value,Reviewer identifier,No,Must be Zane Salman unless amended
+DC027,Charting_date,Administration,Date of original charting,ISO 8601,No,Preserve audit history
+

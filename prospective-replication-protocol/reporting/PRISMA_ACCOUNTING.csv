@@ -1,0 +1,14 @@
+Metric,Count,Reconciliation
+Records identified from databases,,
+Records identified from registers and other sources,,
+Duplicate records removed,,
+Records removed for other reasons,,
+Records screened,,Records identified minus pre-screen removals
+Records excluded,,
+Reports sought for retrieval,,Records screened minus records excluded
+Reports not retrieved,,
+Reports assessed for eligibility,,Reports sought minus reports not retrieved
+Full-text reports excluded,,Must equal the sum of exclusion-reason counts
+Reports included,,Reports assessed minus full-text exclusions
+Unique studies represented,,Must not exceed included reports
+

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite this protocol if you use or adapt it."
+title: "Artificial Intelligence Applications in Esophageal Dysphagia and Related Esophageal Disorders: A Scoping Review Protocol"
+type: report
+version: 1.0.1
+authors:
+  - family-names: Salman
+    given-names: Zane
+  - family-names: Zeitouny
+    given-names: Ryan
+  - family-names: Refaei
+    given-names: Daliah
+  - family-names: Salman
+    given-names: Samer
+  - family-names: Phadke
+    given-names: Rohan
+  - family-names: Tripuraneni
+    given-names: Isha
+  - family-names: Shatby
+    given-names: Anthony
+  - family-names: Javvadi
+    given-names: Akhil
+  - family-names: Gerges
+    given-names: Carol
+  - family-names: Abdullah
+    given-names: Yara
+  - family-names: Tripuraneni
+    given-names: Ajay
+license: CC-BY-4.0

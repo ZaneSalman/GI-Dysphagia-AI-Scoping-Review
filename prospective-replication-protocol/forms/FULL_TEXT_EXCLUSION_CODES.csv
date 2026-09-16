@@ -1,0 +1,6 @@
+Priority,Code,Label,Operational_definition
+1,FT1,Population or domain,No eligible esophageal or swallowing population condition or sample
+2,FT2,Concept,No eligible artificial intelligence or computational application
+3,FT3,Context or objective,Application falls outside the defined clinical esophageal context
+4,FT4,Evidence type,No eligible original results or ineligible report type
+

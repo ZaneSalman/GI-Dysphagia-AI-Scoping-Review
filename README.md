@@ -2,7 +2,16 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22558079.svg)](https://doi.org/10.5281/zenodo.22558079)
 
-This public repository contains a prospective protocol for future update or replication activities and the editorially revised submission materials for a JBI-guided scoping review reported according to PRISMA-ScR. The protocol governs only activities begun after its verified GitHub deposit.
+This public repository contains the editorially revised submission materials for a completed JBI-guided scoping review and a separate prospective protocol for a new, from-scratch replication and re-analysis. The prospective protocol governs only replication activities begun after its verified public release; it does not retroactively govern the completed review.
+
+## Prospective replication protocol
+
+The operative prospective protocol is located in [`prospective-replication-protocol/`](prospective-replication-protocol/README.md). It prespecifies a fresh search from database inception, independent screening and charting, report-to-study linkage, validation mapping, PRISMA accounting, and amendment control.
+
+Protocol version: **1.0.1**  
+Status: **Publicly deposited; not yet activated for review work**  
+
+The protocol becomes active only when the release details are entered in its activation record and before the first replication-specific search, export, deduplication, screening, retrieval, eligibility assessment, charting, or synthesis activity.
 
 ## Project status
 
@@ -22,7 +31,8 @@ Verified review totals:
 ## Repository structure
 
 - `manuscript/` — edited manuscript
-- `protocol/` — prospective protocol for future update or replication activities, plus the amendment log
+- `protocol/` — earlier forward-looking methods record retained as part of the repository history
+- `prospective-replication-protocol/` — authoritative prospective protocol for the new replication and re-analysis
 - `supplement/` — clean supplementary materials, including complete search strategies
 - `reporting/` — PRISMA-ScR checklist and flow diagram
 

@@ -1,0 +1,10 @@
+.DS_Store
+*.tmp
+*.bak
+~$*
+private/
+raw-exports/
+full-texts/
+credentials/
+*.env
+
